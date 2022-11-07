@@ -1,6 +1,6 @@
 # MathBirthdayCalculator
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.8.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.8. To view the deployed version of this application, [click here](https://hlis.github.io/math-birthday-calculator/)
 
 ## Development server
 
