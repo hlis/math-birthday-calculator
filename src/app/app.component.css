@@ -1,0 +1,74 @@
+.page-body {
+  width: 100vw;
+  height: 100vh;
+  background: linear-gradient(180deg, #40c6ff 0%, #e4ff3f 100%);
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+header {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 41px;
+  gap: 10px;
+  font-family: "Kadwa";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 2;
+  margin-bottom: 60px;
+}
+
+.action-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0px;
+  gap: 20px;
+  margin: auto auto 35px;
+}
+
+.action-description {
+  padding: 10px;
+  background: #e9a826;
+  border-radius: 5px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  width: 12vw;
+}
+
+.date-selector {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  background: #ffffff;
+  border: 2px solid #000000;
+  border-radius: 5px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 16px;
+}
+
+.math-birthday-data-container {
+  align-items: center;
+  padding: 22px 10px;
+  gap: 10px;
+  background: #e0714a;
+  border-radius: 5px;
+  width: 28vw;
+  margin: auto;
+  color: #ffffff;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 16px;
+}
